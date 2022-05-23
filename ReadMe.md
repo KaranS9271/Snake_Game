@@ -119,13 +119,15 @@ Here we change the heuristic of the algorithm where we use Manhattan distance to
 4.	Updating the Q-value is done using the Bellman equation.
 
 
+<p align="center">
 <img src=https://user-images.githubusercontent.com/93997063/169722675-b4ca6642-4da1-45ce-97e3-441d6f101faf.gif width = 75% alt = "DQL"></img>
-
+</p>
 
 ### Result: 
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/93997063/169722678-51170dc8-df4a-42e8-a410-7aadada497d0.JPG width = 75% alt = "DLQ_Results"></img>
+   &nbsp &nbsp &nbsp &nbsp & nbsp
+   <img src=https://user-images.githubusercontent.com/93997063/169722678-51170dc8-df4a-42e8-a410-7aadada497d0.JPG width = 75% alt = "DLQ_Results"></img>
 </p>
 
 
@@ -144,7 +146,7 @@ b.	Take action and receive reward and new state
 Actor-Critic 4x4 grid
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/93997063/169722699-b2fedc17-4faf-45db-bc3a-f688d145e6ee.gif width = 60 align = "right" alt = "DLQ_Results"></img>
+<img src=https://user-images.githubusercontent.com/93997063/169722699-b2fedc17-4faf-45db-bc3a-f688d145e6ee.gif width = 60% align = "right" alt = "DLQ_Results"></img>
 </p>
  
 
